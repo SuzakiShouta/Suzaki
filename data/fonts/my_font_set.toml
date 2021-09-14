@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "family=M+PLUS+1p:wght@300;400;500;700&family=Orbitron:wght@400;500;600;700"
+
+# Font families
+heading_font = "Orbitron"
+body_font = "M+PLUS+1p"
+nav_font = "Orbitron"
+mono_font = "M+PLUS+1p"
